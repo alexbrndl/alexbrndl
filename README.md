@@ -13,10 +13,6 @@ bridging design and frontend development to craft digital experiences.
 - Webflow development & SEO optimization
 - End-to-end product design — from brand identity to production code
 
-#### Tech & Tools
-
-Vue.js · Nuxt · TypeScript · Reka UI · Figma · Webflow · Claude
-
 #### Currently into
 
 - Building Color Shades : a Figma plugin for accessible color shades systems (Vue 3 + TypeScript + Vite)
